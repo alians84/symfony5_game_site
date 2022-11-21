@@ -215,4 +215,4 @@ More info -> [Certbot instructions nginx on Debian 10](https://certbot.eff.org/l
 
 ### Contributing
 First of all, thank you for contributing 
-If you find any typo or misconfiguration. please send me a PR or open an issue. You can also ping me on [LinkedIn](https://www.linkedin.com/in/vitalii-sanin-72118b170/)
+If you find any typo or misconfiguration. please send me a PR or open an issue. You can also ping me on [LinkedIn](https://www.linkedin.com/in/vitalii-sanin-72118b170/)# symfony5_game_site
